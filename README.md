@@ -35,7 +35,7 @@ mv boxes.jsonc config.jsonc
 ```
 5. Remove fastfetch-boxes-theme directory
 ```bash
-rm fastfetch-boxes-theme/
+rm -r fastfetch-boxes-theme/
 ```
 
 6. Run
