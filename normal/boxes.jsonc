@@ -12,7 +12,7 @@
         "separator",
         {
             "type": "custom",
-            "format": "\u001b[34m╭──────────── \u001b[32mSoftware \u001b[34m────────────"
+            "format": "\u001b[36m╭──────────── \u001b[32mSoftware \u001b[36m────────────"
         },
         {
             "type": "os",
@@ -51,7 +51,7 @@
         },
         {
             "type": "custom",
-            "format": "\u001b[34m├──────────── \u001b[32mHardware \u001b[34m────────────"
+            "format": "\u001b[36m├──────────── \u001b[32mHardware \u001b[36m────────────"
         },
         {
             "type": "host",
@@ -80,7 +80,7 @@
         },
         {
             "type": "custom",
-            "format": "\u001b[34m├───────────── \u001b[32mUptime \u001b[34m─────────────"
+            "format": "\u001b[36m├───────────── \u001b[32mUptime \u001b[36m─────────────"
         },
         {
             "type": "uptime",
@@ -89,7 +89,7 @@
         },
         {
             "type": "custom",
-            "format": "\u001b[34m╰──────────────────────────────────"
+            "format": "\u001b[36m╰──────────────────────────────────"
 
         },
         "colors",
