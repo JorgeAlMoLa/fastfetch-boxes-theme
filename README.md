@@ -38,7 +38,7 @@ mv boxes.jsonc config.jsonc
 rm fastfetch-boxes-theme/
 ```
 
-5. Run
+6. Run
 ```bash
 fastfetch
 ```
