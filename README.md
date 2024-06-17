@@ -15,7 +15,7 @@
 ```bash
 cd ~/.config/fastfetch/
 ```
-And save your current config in the file `config.jsonc.d`.
+you save your current config in the file `config.jsonc.d`.
 ```bash
 mv config.jsonc config.jsonc.d
 ```
