@@ -2,7 +2,7 @@
 
 ---
 
-[Boxes](https://github.com/Chick2D/neofetch-themes/blob/main/normal/boxes.conf)
+[Boxes](https://github.com/JorgeAlMoLa/fastfetch-boxes-theme/blob/main/boxes.jsonc)
 ---
 ![](https://i.ibb.co/8NV36yL/Fastfetch.png)
 
