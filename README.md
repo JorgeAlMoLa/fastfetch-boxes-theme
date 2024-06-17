@@ -15,16 +15,15 @@
 ```bash
 cd ~/.config/fastfetch/
 ```
+And save your current config in the file `config.jsonc.d`.
 ```bash
 mv config.jsonc config.jsonc.d
 ```
-you save your current config in the file `config.jsonc.d`.
 
-2. Clone the config file
+2. Clone the config file in your fastfetch's config folder.
 ```bash
 wget https://raw.githubusercontent.com/JorgeAlMoLa/fastfetch-boxes-theme/main/boxes.jsonc
 ```
-in your fastfetch's config folder.
 
 3. Change file's name
 ```bash
